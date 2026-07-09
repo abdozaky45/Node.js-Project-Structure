@@ -4,6 +4,7 @@
     "module": "NodeNext",
     "rootDir": "./src",
     "outDir": "./dist",
-    "esModuleInterop":true
+    "esModuleInterop": true,
+    "isolatedModules": true
   }
 }
